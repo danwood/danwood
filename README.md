@@ -11,8 +11,8 @@
 [SwiftUICoreImage](https://github.com/danwood/SwiftUICoreImage)
 : Hundreds of Core Image filters wrapped as CIImage modifiers for easy integration with SwiftUI
 
-[My fork of Periphery](https://github.com/danwood/periphery)
-: Periphery is a tool to identify unused code in Swift projects. My fork enhances it to look for code that is more public than it needs to be, in order to encourage encapsulation.
+[Contributions to Periphery](https://github.com/peripheryapp/periphery)
+: Periphery is a tool to identify unused code in Swift projects. [My contribution](https://github.com/peripheryapp/periphery/commit/f3311a4c1774f36cfdf1bef69ec040a24ae0bd32) enhanced it to look for code that is more public than it needs to be, in order to encourage encapsulation.
 
 [Remotion Emoji Library & Utilities](https://github.com/Remotionco/Emoji-Library-and-Utilities)
 : At Remotion, we needed to present our own custom emoji picker. There wasn't (isn't) a decent API for accessing all emoji available on the system, so we created our own based on several canonical sources.
